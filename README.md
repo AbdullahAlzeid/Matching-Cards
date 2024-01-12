@@ -1,5 +1,7 @@
 # Matching Cards Game
 
+![Alt text](/images/matching.png)
+
 ## Overview
 "Matching Cards" is an interactive JavaFX-based card matching game. It's designed to test memory and attention to detail as players flip cards to find and match pairs of identical images. This game is perfect for all ages, offering a fun way to improve cognitive skills.
 
